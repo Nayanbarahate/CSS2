@@ -1,0 +1,20 @@
+.class{
+    height: 150px;
+    width: 150px;
+    border:2px solid red ;
+    /* display:inline; */
+    /* display: block; */
+    /* justify-content: center; */
+    /* justify-items: center; */
+}
+
+.container{
+    display: flex;
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: wrap; */
+    /* visibility: hidden; */
+    /* justify-items: center; */
+    /* flex-direction: row;
+    justify-content: space-between; */
+
+}
